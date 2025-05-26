@@ -1,9 +1,9 @@
 - 👋 Hi, i am Pika.
 
   
-- ⚡ 》Minecraft Server Owner 
-- ⭐️ 》Basic knowledge of C# & JS
-  🍪 》Contact me: pika@crazymine.de 
+- ⚡ 》Minecraft & Discord Server Owner 
+- ⭐️ 》Basic knowledge of C#
+  🍪 》Contact me: [DC: @animepika] 
 
 ###
 
